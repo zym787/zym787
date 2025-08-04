@@ -15,7 +15,7 @@ jobs:
       - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # Commit message
           COMMIT_MESSAGE: Update Wakatime stats
-          # Show time
           SHOW_TIME: true
+          TIME_RANGE: last_year
+          BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
