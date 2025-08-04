@@ -5,6 +5,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zym787&layout=compact)](https://github.com/zym787/github-readme-stats)
 
 <!--START_SECTION:waka-->
+
+```txt
+Other        18 hrs 26 mins  ████████████▓░░░░░░░░░░░░   50.76 %
+C            8 hrs 16 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.79 %
+Nix          3 hrs 31 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
+C#           2 hrs 46 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
+Markdown     2 hrs 23 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
