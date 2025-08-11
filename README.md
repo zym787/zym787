@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-[![Drinkto's GitHub stats](https://github-readme-stats-zym787s-projects.vercel.app/api?username=zym787&show_icons=true&theme=catppuccin_latte)](https://github.com/zym787/github-readme-stats)
+[![Drinkto's GitHub stats](https://github-readme-stats-eta-seven-80.vercel.app/api?username=zym787&show_icons=true&theme=catppuccin_latte)](https://github.com/zym787/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-zym787s-projects.vercel.app/api/top-langs/?username=zym787&layout=compact)](https://github.com/zym787/github-readme-stats)
+[![Top Langs](https://github-readme-stats-eta-seven-80.vercel.app/api/top-langs/?username=zym787&layout=compact)](https://github.com/zym787/github-readme-stats)
 
 <!--START_SECTION:waka-->
 
