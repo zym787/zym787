@@ -4,8 +4,8 @@ on:
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 10 * * *"
+    # runs at 12 AM UTC (About 20:00 UTC+8)
+    - cron: "0 12 * * *"
 
 jobs:
   update-readme:
@@ -16,6 +16,10 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           COMMIT_MESSAGE: Update Wakatime stats
+          SHOW_TITLE: true
+          SECTION_NAME: waka
           SHOW_TIME: true
-          TIME_RANGE: last_year
+          SHOW_LINES_OF_CODE: true
+          TIME_RANGE: last_30_days
+          SHOW_TOTAL: true
           BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
