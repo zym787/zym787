@@ -20,6 +20,10 @@ JSON                 38 mins               ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
+[![](https://raw.githubusercontent.com/zym787/zym787/main/profile-summary-card-output/buefy/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/zym787/zym787/main/profile-summary-card-output/buefy/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/zym787/zym787/main/profile-summary-card-output/buefy/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/zym787/zym787/main/profile-summary-card-output/buefy/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/zym787/zym787/main/profile-summary-card-output/buefy/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 <!--
 **zym787/zym787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
